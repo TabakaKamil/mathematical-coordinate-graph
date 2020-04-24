@@ -29,7 +29,7 @@ namespace MathHelp
             }
             else
             {
-                Console.WriteLine("Punkt ({0},{1}) znajduje się w ćwiartce 1 - dolna, prawa.", x, y);
+                Console.WriteLine("Punkt ({0},{1}) znajduje się w ćwiartce 4 - dolna, prawa.", x, y);
             }
         }
         static int GetIntFromConsole(string message)
